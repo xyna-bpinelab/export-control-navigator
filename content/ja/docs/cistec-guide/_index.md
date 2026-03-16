@@ -1,7 +1,7 @@
 ---
 title: "CISTECサイト活用ガイド"
 linkTitle: "CISTECサイト活用ガイド"
-weight: 20
+weight: 25
 description: "一般財団法人 安全保障貿易情報センター（CISTEC）のサイト構成と各サービスの活用方法を解説します。"
 ---
 
